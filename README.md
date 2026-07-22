@@ -4,6 +4,18 @@
 ### Phase 1 – Local CIFAR-100 Fox/Wolf Preparation
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/habib-itopa/Occlusion_Project/blob/main/Phase_1_Local_CIFAR100_Fox_Wolf_Preparation.ipynb)
 
+# Investigating the Effect of Occlusion and Standard Data Augmentation on CNN and ResNet18 for Binary Image Classification
+
+This repository contains our Neuromatch Academy Deep Learning project investigating the robustness of convolutional neural networks to image occlusion using a binary Fox vs. Wolf subset of the CIFAR-100 dataset.
+
+## 🚀 Open in Google Colab
+
+| Notebook | Description |
+|----------|-------------|
+| [Phase 1](https://colab.research.google.com/github/habib-itopa/Occlusion_Project/blob/main/Phase_1_Local_CIFAR100_Fox_Wolf_Preparation.ipynb) | Dataset preparation |
+| [Phase 2 & 3](https://colab.research.google.com/github/habib-itopa/Occlusion_Project/blob/main/Phase_2_and_3_CNN_ResNet18_Fox_Wolf_Colab.ipynb) | CNN and ResNet18 training |
+| [Phase 4](https://colab.research.google.com/github/habib-itopa/Occlusion_Project/blob/main/Phase_4_Occlusion_Robustness_Fox_Wolf_Colab.ipynb) | Occlusion robustness evaluation |
+| [Phase 5](https://colab.research.google.com/github/habib-itopa/Occlusion_Project/blob/main/Phase_5_Standard_Augmentation_Occlusion.ipynb) | Standard data augmentation experiments |
 ## Overview
 
 Occlusion is a common challenge in computer vision where important parts of an object are hidden by other objects or missing from the image. Models that perform well on clean images may experience significant performance degradation when discriminative visual features are partially obscured.
