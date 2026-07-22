@@ -1,5 +1,8 @@
+
 # Neuromatch Academy Deep Learning Project
 # Investigating the Effect of Occlusion and Standard Data Augmentation on CNN and ResNet18 for Binary Image Classification
+### Phase 1 – Local CIFAR-100 Fox/Wolf Preparation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/habib-itopa/Occlusion_Project/blob/main/Phase_1_Local_CIFAR100_Fox_Wolf_Preparation.ipynb)
 
 ## Overview
 
